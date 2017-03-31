@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <th>h1 Headings Status</th>
-<td>National Portal of India</td><br>
+<td><h1>National Portal of India</h1></td><br>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <th>HTML Compression Test</th>
-<td>it is recommended to use html compression e-g: gzip compression </td><br>
+<td>It is recommended to use html compression e-g: gzip compression </td><br>
 </tr>
 </table>
 </body>
