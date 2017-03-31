@@ -5,9 +5,7 @@
 <b><i>national portal of india</i></b>
 <tr>
 <th><b>Page Title</b></th>
-</tr>
-<tr>
-<th><b>Description</b></th>
+<td><b>Description</b></td><br>
 </tr>
 <tr>
 <th>Meta Description</th>
