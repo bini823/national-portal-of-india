@@ -2,7 +2,7 @@
 <html>
 <body>
 <table>
-<b><i><H1>national portal of india</H1></i></b>
+<b><i><H1>National Portal of India</H1></i></b>
 <tr>
 <th><b>Title</b></th>
 <td><b>Description</b></td><br>
