@@ -7,6 +7,9 @@
 <th><b>Page Title</b></th>
 </tr>
 <tr>
+<th><b>Description</b></th>
+</tr>
+<tr>
 <th>Meta Description</th>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td><br>
 </tr>
