@@ -4,7 +4,7 @@
 <table>
 <b><i>national portal of india</i></b>
 <tr>
-<th><b>Page Title</b></th>
+<th><b>Title</b></th>
 <td><b>Description</b></td><br>
 </tr>
 <tr>
