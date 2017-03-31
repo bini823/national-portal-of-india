@@ -2,7 +2,7 @@
 <html>
 <body>
 <table>
-<b><i>national portal of india</i></b>
+<b><i><H1>national portal of india</H1></i></b>
 <tr>
 <th><b>Title</b></th>
 <td><b>Description</b></td><br>
@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <th>h1 Headings Status</th>
-<td><h1>National Portal of India</h1></td><br>
+<td>National Portal of India</td><br>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
